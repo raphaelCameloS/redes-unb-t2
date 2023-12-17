@@ -1,0 +1,19 @@
+{
+  "name": "trabalho-2-redes-unb",
+  "version": "1.0.0",
+  "description": "segundo trabalho da disciplina redes de computadores da unb",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelCameloS/redes-unb-t2.git"
+  },
+  "author": "Raphael Camelo Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelCameloS/redes-unb-t2/issues"
+  },
+  "homepage": "https://github.com/raphaelCameloS/redes-unb-t2#readme"
+}
