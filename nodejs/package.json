@@ -4,7 +4,8 @@
   "description": "segundo trabalho da disciplina redes de computadores da unb",
   "main": "dist/app.js",
   "scripts": {
-    "test": "run test"
+    "test": "run test",
+    "build": "tsc -p tsconfig.json"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/raphaelCameloS/redes-unb-t2/issues"
   },
-  "homepage": "https://github.com/raphaelCameloS/redes-unb-t2#readme"
+  "homepage": "https://github.com/raphaelCameloS/redes-unb-t2#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
