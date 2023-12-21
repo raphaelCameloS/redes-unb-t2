@@ -1,1 +1,1 @@
-let blank: string = ''
+console.log('Manipulaçao via nodejs')
