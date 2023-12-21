@@ -1,6 +1,9 @@
 # Use a imagem base do Node.js para compilar TypeScript
 FROM node:latest
 
+# Instala o ts-node globalmente
+RUN npm install -g ts-node
+
 # Define o diretório de trabalho no contêiner
 WORKDIR /app
 
